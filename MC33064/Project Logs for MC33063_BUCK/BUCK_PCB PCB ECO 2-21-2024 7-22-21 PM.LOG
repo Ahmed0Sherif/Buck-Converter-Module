@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Member From Class: ClassName=BUCK_SCHEM Member=LED2
+Added Component: Designator=LED1(0603_LED)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R6-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=BUCK_SCHEM Member=Component LED1 0603_Red

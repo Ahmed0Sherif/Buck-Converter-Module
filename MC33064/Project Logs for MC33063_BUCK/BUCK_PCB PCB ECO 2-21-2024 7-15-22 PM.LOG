@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Member From Class: ClassName=BUCK_SCHEM Member=LED1
+Removed Member From Class: ClassName=BUCK_SCHEM Member=R5

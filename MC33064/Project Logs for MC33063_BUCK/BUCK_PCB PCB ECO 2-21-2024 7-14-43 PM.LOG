@@ -1,0 +1,18 @@
+Added Component: Designator=LED1(0603_LED)
+Added Component: Designator=LED2(0603_LED)
+Added Component: Designator=R5(0603_CAP)
+Added Component: Designator=R6(0603_CAP)
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=V_OUT Pin=R6-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R5-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R6-1
+Added Net: Name=NetLED2_2
+Added Member To Class: ClassName=BUCK_SCHEM Member=Component LED1 0603_Red
+Added Member To Class: ClassName=BUCK_SCHEM Member=Component LED2 0603_Red
+Added Member To Class: ClassName=BUCK_SCHEM Member=Component R5 0603_R
+Added Member To Class: ClassName=BUCK_SCHEM Member=Component R6 0603_R
