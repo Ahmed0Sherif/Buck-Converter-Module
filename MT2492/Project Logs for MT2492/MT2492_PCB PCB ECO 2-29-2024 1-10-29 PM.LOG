@@ -1,0 +1,9 @@
+Added Component: Designator=U1(SOT23-6)
+Added Pin To Net: NetName=BS Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=FB Pin=U1-3
+Added Pin To Net: NetName=EN Pin=U1-4
+Added Pin To Net: NetName=V_in Pin=U1-5
+Added Pin To Net: NetName=SW Pin=U1-6
+Added Member To Class: ClassName=MT2492_Schem Member=Component U1 MT2492
+Added Room: Name=MT2492_Schem
