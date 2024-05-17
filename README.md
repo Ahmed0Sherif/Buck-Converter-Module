@@ -46,6 +46,6 @@ The results:
 </p>
 
 <p align="center">
-<img src="" width="500" height="auto">
+<img src="https://github.com/Ahmed0Sherif/Buck-Converter-Module/assets/93788514/18c2c38f-68ee-4a6c-8323-874d6d72a2f1" width="500" height="auto">
 </p>
 
